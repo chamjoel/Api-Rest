@@ -1,0 +1,22 @@
+{
+  "name": "api-rest",
+  "version": "1.0.0",
+  "description": "file",
+  "main": "index.js",
+  "scripts": {
+    "test": "start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chamjoel/Api-Rest.git"
+  },
+  "keywords": [
+    "chambergo"
+  ],
+  "author": "chambergo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chamjoel/Api-Rest/issues"
+  },
+  "homepage": "https://github.com/chamjoel/Api-Rest#readme"
+}
