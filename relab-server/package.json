@@ -18,5 +18,12 @@
   "bugs": {
     "url": "https://github.com/chamjoel/Api-Rest/issues"
   },
-  "homepage": "https://github.com/chamjoel/Api-Rest#readme"
+  "homepage": "https://github.com/chamjoel/Api-Rest#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mssql": "^6.2.0",
+    "proj4": "^2.6.2",
+    "wellknown": "^0.5.0"
+  }
 }
