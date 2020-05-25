@@ -1,8 +1,8 @@
 {
-  "name": "api-rest",
+  "name": "relab-server",
   "version": "1.0.0",
   "description": "file",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
     "test": "start"
   },
@@ -13,7 +13,7 @@
   "keywords": [
     "chambergo"
   ],
-  "author": "chambergo",
+  "author": "Chambergo",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/chamjoel/Api-Rest/issues"
@@ -23,7 +23,9 @@
     "cors": "^2.8.5",
     "express": "^4.17.1",
     "mssql": "^6.2.0",
-    "proj4": "^2.6.2",
+    "nodemon": "^2.0.3",
+    "proj4": "^2.6.1",
     "wellknown": "^0.5.0"
   }
 }
+ 
