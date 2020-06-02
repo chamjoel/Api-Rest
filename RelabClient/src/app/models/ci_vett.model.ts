@@ -1,4 +1,3 @@
-
 export class Ci_vettore {
     INDIRIZZO: string;
     WGS84_X: number;
